@@ -22,11 +22,11 @@
 
 ⚠ 请务必优先阅读本文件。
 
-2️⃣ 仿真软件安装包
+2️⃣ 仿真软件安装包与Anaconda3安装包
 
-🖥 TESS NG V4.1.0
+🖥 TESS NG V4.1.0、Anaconda3-2025.12-1-Windows-x86_64
 
-👉 点击仓库右侧 Releases → TESS NG V4.1.0 → Assets 下载。
+👉 点击仓库右侧 Releases → TESS NG V4.1.0 + Anaconda3-2025.12-1-Windows-x86_64 → Assets 下载。
 
 下载后解压并完成安装。
 
