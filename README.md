@@ -32,7 +32,7 @@
 
 3️⃣ 示例项目工程
 
-📦 OnSite-Transportation (Internal Test Version).zip
+📦 OnSite-Transportation.zip
 
 👉 在仓库文件列表中下载。
 
