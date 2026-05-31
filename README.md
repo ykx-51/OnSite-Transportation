@@ -1,5 +1,7 @@
 若赛道交流群二维码过期，请联系：Asteroid_No_4（微信号）
-正式比赛的用户手册请前往onsite：https://www.onsite.com.cn/#/dist/home下载
+
+正式比赛的用户手册请前往onsite：https://www.onsite.com.cn/#/dist/home
+
 正式比赛请使用最新发布的压缩包：OnSite_Transportation，已经配过环境的选手不用重新配环境，用最新发布的压缩包里的文件替换掉原来的文件即可
 
 🚛 第四届第九赛道 — OnSite-Transportation 内测资源发布页
